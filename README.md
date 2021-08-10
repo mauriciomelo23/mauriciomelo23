@@ -1,7 +1,11 @@
+Bem vinde ao meu GitHub!
+- 😄 Pronomes: Ele
+- 👩🏻‍💻 Desenvolvedora Java FullStack Formado pela Generation Brasil.
+
 <div>
   <a href="https://github.com/mauriciomelo23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciomelo23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomelo23&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciomelo23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomelo23&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
